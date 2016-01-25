@@ -1,0 +1,4 @@
+The 3DLP Host software is designed to be a complete multi-platform software platform for DIY DLP-based 3D printing. The 3DLP Host software contains everything needed for printing in a single package: 3D slicing, slideshow generation, and printer control. The 3DLP Host software does not have real-time slicing capabilities. Instead, it pre-slices STL files into an image sequence. Models can be transformed and visualized in the 3D slicer and host software before committing them to the printer. The 3DLP Host software currently supports all Arduino and RAMPS based hardware, with plans to expand and support Galvanometer Mirror-based setups, LCD-based stereolithography printers, and additional microcontrollers.
+
+Shown below is a preview of version 2.0 of the 3DLP Host Software:
+![http://www.chrismarion.net/3dlp/3DLP%20Host_progress_6-22.jpg](http://www.chrismarion.net/3dlp/3DLP%20Host_progress_6-22.jpg)
